@@ -1,0 +1,25 @@
+{
+  "name": "personal-web-back-end",
+  "version": "1.0.0",
+  "description": "This project is the back-end Nodejs project that is designed to serve my portfolio web front-end website and manage all the computing services.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CYIMANA-Faisal/personal-web-back-end.git"
+  },
+  "keywords": [
+    "back-end",
+    "portfolio-back-end-web",
+    "nodejs",
+    "project"
+  ],
+  "author": "CYIMANA Faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CYIMANA-Faisal/personal-web-back-end/issues"
+  },
+  "homepage": "https://github.com/CYIMANA-Faisal/personal-web-back-end#readme"
+}
